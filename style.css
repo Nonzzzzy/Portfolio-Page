@@ -161,6 +161,7 @@ section {
   top: 0;
   left: 0;
   width: 100%;
+
   padding: 1.5rem 0;
   z-index: 100;
   transition: all 0.3s var(--ease);
